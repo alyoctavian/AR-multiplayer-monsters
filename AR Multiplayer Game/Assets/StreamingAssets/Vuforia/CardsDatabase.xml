@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="WhiteWitch" size="0.056200 0.074905" />
+    <ImageTarget name="Slime" size="0.056200 0.074905" />
+    <ImageTarget name="SkeletonKing" size="0.056200 0.074905" />
+    <ImageTarget name="RedWitch" size="0.056200 0.074905" />
+    <ImageTarget name="HealSpell" size="0.056200 0.074905" />
+    <ImageTarget name="ForestEnvironment" size="0.056200 0.074905" />
+    <ImageTarget name="Bat" size="0.056200 0.074905" />
+    <ImageTarget name="BlueWitch" size="0.056200 0.074905" />
+    <ImageTarget name="MinotaurFront" size="0.056200 0.074905" />
+  </Tracking>
+</QCARConfig>
