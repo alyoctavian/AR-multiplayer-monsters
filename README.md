@@ -7,3 +7,5 @@ Main highlighs of this project:
 1. Creating and joining a multiplayer game lobby.
 2. Scanning physical cards and projecting objects on top of them.
 3. Using a networking system that sends messages between players.
+
+The code can be seen at AR-multiplayer-monsters/AR Multiplayer Game/Assets/Scripts/
